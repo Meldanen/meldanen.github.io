@@ -9,19 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+</br>
 
-Skills
-======
+## Skills
 * Frameworks
   * Tapestry5, Expo, React Native, Bootstrap, Mockito, ROS, PyTorch, Scikit-learn, Python Unittest, JUnit
 * Languages
   * Java, Python, JavaScript, HTML, CSS, PostgreSQL, React, Node.js
 * Git, Github, Linux, Scrum, Agile, JIRA
 
-Work experience
-======
-## Software Engineer, Albourne Partners Ltd, Cyprus, November 2015 - July 2019    
+</br>
 
+## Work experience
+
+### Software Engineer, Albourne Partners Ltd, Cyprus, November 2015 - July 2019    
+</br>
   Albourne Partners Ltd is one of the world's leading alternative investment consultancies.
 
   Main achievements:
@@ -39,7 +41,8 @@ Work experience
   * Investigating and researching new technologies.
   * Supporting, maintaining, and refactoring existing systems to improve security, efficiency, and user experience.
 
-## Co-organiser and Coordinator, Cyprus Comic Con (CCC), Cyprus, September 2015 - Present
+### Co-organiser and Coordinator, Cyprus Comic Con (CCC), Cyprus, September 2015 - Present
+</br>
 
   Cyprus Comic Con is a non-profit organisation, focused on bringing people of different pop genres together. 
 
@@ -52,10 +55,10 @@ Work experience
   * Ensuring a smooth run during the event
 
 
-# Education
+## Education
 
-## MSc Healthcare Technologies - AI & Robotics, King’s College London, UK, 
-September 2019 - September 2020
+### MSc Healthcare Technologies - AI & Robotics, King’s College London, UK, September 2019 - September 2020
+</br>
 
   Main Achievements:
   * Awarded with distinction
@@ -63,16 +66,18 @@ September 2019 - September 2020
   * Group Research Project: Developed a mobile application to aid patients in keeping track of their health metrics as part of a group project. 
   * Tumour detection decathlon: Implemented and trained a 3D Neural Network in order to detect liver tumours in 3D images.
 
-## BSc Computer Science, University of Sheffield, UK, September 2012 - June 2015
-
+### BSc Computer Science, University of Sheffield, UK, September 2012 - June 2015
+</br>
   Main Achievements:
   * Awarded with First Class performance
   * Mobile App for an Interactive Pedestrian Campus Tour – Implemented the Dialogue System (Natural Language Processing) of the App using Java
 
-# Languages: 
+</br>
+
+## Languages: 
   * English (Fluent) and Greek (native)
 
-# Interests
+## Interests
   * Video games, Trading card games
   * Badminton, Tennis, Fencing
 
