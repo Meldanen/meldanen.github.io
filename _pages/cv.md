@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-</br>
+&nbsp;
 
 ## Skills
 * Frameworks
@@ -18,12 +18,12 @@ redirect_from:
   * Java, Python, JavaScript, HTML, CSS, PostgreSQL, React, Node.js
 * Git, Github, Linux, Scrum, Agile, JIRA
 
-</br>
+&nbsp;
 
 ## Work experience
 
 ### Software Engineer, Albourne Partners Ltd, Cyprus, November 2015 - July 2019    
-</br>
+&nbsp;
   Albourne Partners Ltd is one of the world's leading alternative investment consultancies.
 
   Main achievements:
@@ -42,7 +42,7 @@ redirect_from:
   * Supporting, maintaining, and refactoring existing systems to improve security, efficiency, and user experience.
 
 ### Co-organiser and Coordinator, Cyprus Comic Con (CCC), Cyprus, September 2015 - Present
-</br>
+&nbsp;
 
   Cyprus Comic Con is a non-profit organisation, focused on bringing people of different pop genres together. 
 
@@ -58,7 +58,7 @@ redirect_from:
 ## Education
 
 ### MSc Healthcare Technologies - AI & Robotics, King’s College London, UK, September 2019 - September 2020
-</br>
+&nbsp;
 
   Main Achievements:
   * Awarded with distinction
@@ -67,12 +67,12 @@ redirect_from:
   * Tumour detection decathlon: Implemented and trained a 3D Neural Network in order to detect liver tumours in 3D images.
 
 ### BSc Computer Science, University of Sheffield, UK, September 2012 - June 2015
-</br>
+&nbsp;
   Main Achievements:
   * Awarded with First Class performance
   * Mobile App for an Interactive Pedestrian Campus Tour – Implemented the Dialogue System (Natural Language Processing) of the App using Java
 
-</br>
+&nbsp;
 
 ## Languages: 
   * English (Fluent) and Greek (native)
