@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 ## Skills
   * Tapestry5, Expo, React Native, Bootstrap, Mockito, ROS, PyTorch, Scikit-learn, Python Unittest, JUnit
   * Java, Python, JavaScript, HTML, CSS, PostgreSQL, React, Node.js
@@ -49,7 +48,6 @@ redirect_from:
   * Organising the outside area of the convention (food vendors, security, and entertainment)
   * Ensuring a smooth run during the event
 
-
 ## Education
 
 ### MSc Healthcare Technologies - AI & Robotics, King’s College London, UK, September 2019 - September 2020
@@ -65,7 +63,6 @@ redirect_from:
   Main Achievements:
   * Awarded with First Class performance
   * Mobile App for an Interactive Pedestrian Campus Tour – Implemented the Dialogue System (Natural Language Processing) of the App using Java
-
 
 ## Languages: 
   * English (Fluent) and Greek (native)
