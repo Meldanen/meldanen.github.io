@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexandros Megalemos"
+title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-HUE
+ Professional Software Engineer with ~4 years experience in one of the world's leading alternative investment consultancies and recent AI & Robotics MSc graduate from King’s College London, seeking an opportunity to apply my skills as a Software Engineer. In my free time, I volunteer as one of the organising staff for Cyprus Comic Con. 
+
+
+MSc Individual project: Deep Control of Medical Robots
+<p>
+Implementing a mobile application that uses machine learning models to extract hand movements through a phone's camera in order to control a robotic arm over a wireless network.
+</p>
 
 <video width="320" height="240" controls>
   <source src="./files/example_experiment.mp4" type="video/mp4">

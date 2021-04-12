@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BSc in Computer SCience, University of Sheffield, 2012-2015
-* MSc in Healthcare Technologies, AI & Robotics, King's College London, 2019-2020
-
 Work experience
 ======
 * November 2015 - July 2019: Software Developer
@@ -23,6 +18,11 @@ Work experience
 * September 2015: Coordinator
   * Cyprus Comic Con
   * Duties included: Coordinating and organising the outdoors area of the convention
+
+Education
+======
+* BSc in Computer Science, University of Sheffield, 2012-2015
+* MSc in Healthcare Technologies, AI & Robotics, King's College London, 2019-2020
   
 Skills
 ======
