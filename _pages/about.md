@@ -16,7 +16,7 @@ redirect_from:
 Implementing a mobile application that uses machine learning models to extract hand movements through a phone's camera in order to control a robotic arm over a wireless network.
 </p>
 
-<video controls>
+<video width="800" controls>
   <source src="./files/example_experiment.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
