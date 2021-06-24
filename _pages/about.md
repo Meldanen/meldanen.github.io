@@ -25,7 +25,7 @@ Implementing a mobile application that uses machine learning models to extract h
 	<div class="column" style="flex: 33.33%; padding: 5px;">
 		<img src="./images/pipeline.png" alt="pipeline" style="width:100%">
 	</div>
-	<div class="column" style="flex: 33.33%; padding: 5px;">
+	<div class="column" style="flex: 33.33%; padding: 5px; text-align:center; display:block;">
 		<img src="./images/system_actual.png" alt="system_actual" style="width:100%">
 	</div>
 </div>
