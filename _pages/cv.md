@@ -64,7 +64,7 @@ redirect_from:
   * Awarded with First Class performance.
   * Mobile App for an Interactive Pedestrian Campus Tour – Implemented the Dialogue System (Natural Language Processing) of the App using Java.
 
-## Languages: 
+## Languages
   * English (Fluent) and Greek (native)
 
 ## Interests
