@@ -20,12 +20,13 @@ Implementing a mobile application that uses machine learning models to extract h
   <source src="./files/example_experiment.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
-
-<div class="row" style="display: flex;">
-	<div class="column" style="flex: 33.33%; padding: 5px;">
+<!--
+<div class="row">
+	<div class="column">
 		<img src="./images/pipeline.png" alt="pipeline" style="width:100%">
 	</div>
-	<div class="column" style="flex: 33.33%; padding: 5px; text-align:center; display:block;">
+	<div class="column">
 		<img src="./images/system_actual.png" alt="system_actual" style="width:100%">
 	</div>
-</div>
+</div> 
+-->
