@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- Professional Software Developer with over 4 years of experience in the finance sector, seeking an opportunity to apply and expand my skills. In my free time, I volunteer as one of the organising staff for Cyprus Comic Con.
+Professional Software Engineer with over 4 years of experience in the finance sector and recent AI & Robotics MSc graduate from King’s College London, seeking an opportunity to apply my skills as a Software Engineer. In my free time, I volunteer as one of the organising staff for Cyprus Comic Con. 
 
 
 # MSc Individual project: Deep Control of Medical Robots
