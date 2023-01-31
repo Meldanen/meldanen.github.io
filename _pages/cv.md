@@ -10,14 +10,23 @@ redirect_from:
 {% include base_path %}
 
 ## Skills
-  * Tapestry5, Expo, React Native, Bootstrap, Mockito, ROS, PyTorch, Scikit-learn, Python Unittest, JUnit
-  * Java, Python, JavaScript, HTML, CSS, PostgreSQL, React, Node.js
+  * Tapestry5, Expo, React Native, Bootstrap, Mockito, ROS, PyTorch, Scikit-learn, Python Unittest, JUnit, Vaadin, SpringBoot
+  * Java, Python, JavaScript, HTML, CSS, PostgreSQL, MySQL, React, Node.js
   * Git, Github, Linux, Scrum, Agile, JIRA
 
 
 ## Work experience
 
-### Software Engineer, Albourne Partners Ltd, Cyprus, November 2015 - July 2019    
+### Full-stack Engineer, Lendscape, UK, June 2021 - Present.
+
+  HPD Lendscape is an industry expert in providing cutting edge finance technology solutions for high profile clients.
+  
+  Main achievements:
+  * Updated older libraries and jars in the system to remove vulnerabilities
+  * Assigned team’s ‘Security Champion’ and engineering department’s ‘Lead Security Champion’ shortly after
+  
+
+### Full-stack Developer, Albourne Partners Ltd, Cyprus, November 2015 - July 2019    
 
   Albourne Partners Ltd is one of the world's leading alternative investment consultancies.
 
@@ -41,7 +50,7 @@ redirect_from:
   Cyprus Comic Con is a non-profit organisation, focused on bringing people of different pop genres together. 
 
   Main achievements:
-  * Growing the event from a small convention of 2000 unique visitors to 17000 within 3 years.
+  * Helped grow the event from a small convention of 2000 unique visitors to 17000 within 3 years, becoming one of the largest events in Cyprus.
   * Established a system to simplify and optimise booking vendors for the event.
 
   Responsibilities:
@@ -54,7 +63,7 @@ redirect_from:
 
   Main Achievements:
   * Awarded with distinction.
-  * Individual Research Project: Implemented a mobile application that uses machine learning models to extract hand movements through a phone's camera to remotely control a robotic arm over a wireless network.
+  * Individual Research Project: Implemented a mobile application that uses neural networks to extract hand movements through a phone's camera to remotely control a robotic arm over a wireless network.
   * Group Research Project: Developed a mobile application to aid patients in keeping track of their health metrics as part of a group project. 
   * Tumour detection decathlon: Implemented and trained a 3D Neural Network in order to detect liver tumours in 3D images.
 
@@ -62,10 +71,10 @@ redirect_from:
 
   Main Achievements:
   * Awarded with First Class performance.
-  * Mobile App for an Interactive Pedestrian Campus Tour – Implemented the Dialogue System (Natural Language Processing) of the App using Java.
+  * Mobile App for an Interactive Pedestrian Campus Tour – Developed a mobile application that takes the user's input in natural language, and guides them around the campus.
 
 ## Languages
-  * English (Fluent) and Greek (native)
+  * English (Fluent) and Greek (Ntive)
 
 ## Interests
   * Video games, Trading card games
